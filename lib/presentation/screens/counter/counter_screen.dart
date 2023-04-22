@@ -6,7 +6,7 @@ class CounterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-        body: Center(child: Text('Counter Screen foo')),
+        body: Center(child: Text('Counter Screen rgb')),
         backgroundColor: Color.fromARGB(255, 232, 234, 232));
   }
 }
